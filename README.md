@@ -19,8 +19,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Aditya2kk/LEETCODE/tree/master/0007-reverse-integer) |
+| [1872-stone-game-viii](https://github.com/Aditya2kk/LEETCODE/tree/master/1872-stone-game-viii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/Aditya2kk/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
+| [1872-stone-game-viii](https://github.com/Aditya2kk/LEETCODE/tree/master/1872-stone-game-viii) |
+## Array
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Aditya2kk/LEETCODE/tree/master/1872-stone-game-viii) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Aditya2kk/LEETCODE/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Aditya2kk/LEETCODE/tree/master/1872-stone-game-viii) |
+## Game Theory
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Aditya2kk/LEETCODE/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Aditya2kk/LEETCODE/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
