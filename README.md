@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Aditya2kk/LEETCODE/tree/master/0006-zigzag-conversion) |
+| [0940-distinct-subsequences-ii](https://github.com/Aditya2kk/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aditya2kk/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Aditya2kk/LEETCODE/tree/master/0007-reverse-integer) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/Aditya2kk/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
