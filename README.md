@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Aditya2kk/LEETCODE/tree/master/0835-image-overlap) |
 | [1872-stone-game-viii](https://github.com/Aditya2kk/LEETCODE/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Aditya2kk/LEETCODE/tree/master/1872-stone-game-viii) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/Aditya2kk/LEETCODE/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
