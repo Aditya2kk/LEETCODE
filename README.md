@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Aditya2kk/LEETCODE/tree/master/0007-reverse-integer) |
+| [0836-rectangle-overlap](https://github.com/Aditya2kk/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [1872-stone-game-viii](https://github.com/Aditya2kk/LEETCODE/tree/master/1872-stone-game-viii) |
 ## Dynamic Programming
 |  |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aditya2kk/LEETCODE/tree/master/0011-container-with-most-water) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Aditya2kk/LEETCODE/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
