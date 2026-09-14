@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aditya2kk/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0835-image-overlap](https://github.com/Aditya2kk/LEETCODE/tree/master/0835-image-overlap) |
 | [1872-stone-game-viii](https://github.com/Aditya2kk/LEETCODE/tree/master/1872-stone-game-viii) |
 ## Minimax
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Aditya2kk/LEETCODE/tree/master/0835-image-overlap) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Aditya2kk/LEETCODE/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Aditya2kk/LEETCODE/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
